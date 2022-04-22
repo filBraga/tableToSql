@@ -100,7 +100,7 @@ VALUES
 INSERT INTO SpotifyClone.album_tabela (album,artista_id,ano_lancamento)
 VALUES
     ("Envious", 1, 1990),
-    ("Exuberant", 2, 1993),
+    ("Exuberant", 1, 1993),
     ("Hallowed Steam", 2, 1995),
     ("Incandescent", 3, 1998),
     ("Temporary Culture", 4, 2001),
